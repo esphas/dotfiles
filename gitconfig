@@ -1,0 +1,10 @@
+[user]
+	name = Esphas
+	email = esphas@hotmail.com
+	signingkey = 7C262E31
+[commit]
+	gpgsign = true
+[gpg]
+	program = D:/Program Files (x86)/GNU/GnuPG/gpg2.exe
+[push]
+	default = simple
